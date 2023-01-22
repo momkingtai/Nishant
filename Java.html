@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript">
+		alert("Hello Javascript!")
+		var name="abcd";
+		var last_name="wxyz";
+		console.log(name)
+		console.log(name+last_name);
+		var x=10;
+		y=--x;
+		console.log(y);
+		var a=6;
+		var b=13;
+		console.log(a+b);
+		console.log(b%a);
+		console.log(a*b);
+		console.log(a/b);
+		function sum(a,b){var c=a+b;return c;}
+		alert(sum(5,6));
+	    function pi(){return 3.14}
+	    function area_of_circle(radius){area=pi()*radius*radius;return area;}
+	    alert(area_of_circle(5));
+	</script>
+</head>
+<body>
+	<p id="output" onclick="change_paragraph_text()">Default text</p>
+	<script type="text/javascript">
+		function change_paragraph_text()
+		{document.getElementById("output").innerHTML="New text";}
+		var a=20; var b=10;if(a>b){alert("a is greater then b.")} else{console.log("b is greater then a")}
+	</script>
+	<p id="abcd" onmouseover="change_paragraph_text()">abcd</p>
+	<input onkeyup="change_paragraph_text(this.value)">
+	<script type="text/javascript">
+		function change_paragraph_text(text)
+		{document.getElementById("abcd").innerHTML=text;}
+	</script>	
+</body>
+</html>

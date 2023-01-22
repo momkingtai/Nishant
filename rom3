@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Matrix</title>
+	<link rel="stylesheet" type="text/css" href="action6.css">
+</head>
+<body style="background-color: #CCD5E5">
+	<div class="div1">
+		<p id="p1"> IMDB Rattings : 9.0/10</p>
+	</div>
+	<div class="div1">
+		<h1 style="padding-left: 120px">Matrix</h1><img src="m.jpg" width="20%">
+        <p>Thomas Anderson, a computer programmer, is led to fight an underground war against powerful computers who have constructed his entire reality with a system called the Matrix.</p>
+		<h2>Directed by - Christopher Nolan</h2>
+		<h2></h2>
+		<h2></h2>
+	</div>
+</body>
+</html>

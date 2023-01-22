@@ -1,0 +1,18 @@
+body{margin-top: 0px;}
+.topview{background-color: #113E66;height: 50px;position: fixed;left: 0px;right: 0px; border-bottom: 4px solid #A63939;}
+#home a{float: right;color: white;font-size: 15px;font-weight: 700;font-family: "Helventica Neue";height: 5px;z-index: 100;
+padding-right: 20px;padding-top: 10px;display: inline-block;}
+.head{padding-left: 10px;font-size: 30px;color: #F77F7F; padding-top: 20px; left: 30px;font-weight: bold;}
+.span2 h1,h2{color: #F93232; width: 40%;font-weight: bolder;padding-top: 80px;font-size: 50px;padding-left: 30px;}
+.image{background-image: url("bbb.jpg");height: 800px;width: 100%;padding-top: 50px;border: 15px solid #113E66;}
+.div{top: 100px;width: 100%;}
+.card_list{width: 100%;}
+.card{width: 22%;padding: 1.5%;height: 100px;float: left;text-align: center;}
+.card img{width: 40%;}
+.card-list{width: 100%;}
+.img{padding-top: 400px;}
+.img img{padding-right: 65px;}
+.img h1{font-size: 50px; padding-left: 50px;}
+.abc p{width: 40%;padding-left: 50px;font-size: 20px;}
+.last{background-color: #151D55;width: 100%;height: 100px;padding-top: 500px;}
+.footer{height: 200px; background-color:#151D55; top: 0px;text-align: bottom;}

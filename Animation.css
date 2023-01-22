@@ -1,0 +1,11 @@
+body{margin-top: 0px;}
+.topview{background-color: #113E66;height: 50px;position: fixed;left: 0px;right: 0px; border-bottom: 4px solid #A63939;}
+#home a{float: right;color: white;font-size: 15px;font-weight: 700;font-family: "Helventica Neue";height: 5px;z-index: 100;
+padding-right: 20px;padding-top: 10px;display: inline-block;}
+.head{padding-left: 10px;font-size: 30px;color: #F77F7F; padding-top: 20px; left: 30px;font-weight: bold;}
+.div2{background-image: url("nish.jpg");height: 500px;width: 100%;padding-top: 50px;}
+.div3{;background-color: #113E66;height: 500px;width: 100%;padding-top: 10px;}
+.span a img{width: 18%;padding: 10px;height: 300px;float: left;text-align: center;display: inline-block;padding-top: 0px; 
+	border: 2px solid white;}
+.abc h2{display: inline-block;padding-left: 40px;padding-right: 90px;}
+.def{width: 18%;height: 100px;}
